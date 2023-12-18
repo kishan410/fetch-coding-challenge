@@ -16,7 +16,9 @@ git clone https://github.com/kishanthedeveloper/fetch-coding-challenge
 
 2. Install the requirements:
 pip install requests
-&& pip3 install --upgrade pip  
+&& pip3 install --upgrade pip
+Below command will check if requirements are satisfied if not it will upgrade to latest one\
+  python3 -m pip install --upgrade pip 
 
 4. Run the code:
 python3 main.py
